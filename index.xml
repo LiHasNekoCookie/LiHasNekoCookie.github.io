@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>行吾道如行魔境</title>
-    <link>http://example.org/</link>
+    <link>https://lihasnekocookie.github.io/</link>
     <description>Recent content on 行吾道如行魔境</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Aug 2023 16:47:08 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Aug 2023 16:47:08 +0800</lastBuildDate><atom:link href="https://lihasnekocookie.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firstblog</title>
-      <link>http://example.org/post/firstblog/</link>
+      <link>https://lihasnekocookie.github.io/post/firstblog/</link>
       <pubDate>Fri, 11 Aug 2023 16:47:08 +0800</pubDate>
       
-      <guid>http://example.org/post/firstblog/</guid>
+      <guid>https://lihasnekocookie.github.io/post/firstblog/</guid>
       <description></description>
     </item>
     
